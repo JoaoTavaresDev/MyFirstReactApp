@@ -19,7 +19,8 @@
 
 .form-cadastro_submit {
   align-items: flex-end;
-  width: 30%;
+  width: 35%;
+  height: 3%;
   background-color: var(--secundaria);
   color: white;
   font-weight: 400;
